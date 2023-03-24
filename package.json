@@ -8,6 +8,11 @@
   "dependencies": {
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "date-fns": "^3.0.0",
+    "gray-matter": "^4.0.1",
+    "remark": "^15.0.0",
+    "remark-html": "^7.0.0"
   }
 }
+
